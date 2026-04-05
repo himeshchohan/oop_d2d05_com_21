@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 class Shape {
     double d1, d2;
     void getData(double d1, double d2) {
